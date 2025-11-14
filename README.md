@@ -1,2 +1,2 @@
 # TA_Scheduler_CaseStudyData
-Data used in the case study presented in the TA scheduler paper. 
+Data used in the case study presented in the TA scheduler paper for public reviews.
